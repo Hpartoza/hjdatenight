@@ -86,3 +86,40 @@ button:hover {
   color: #2d6a4f;
   font-weight: bold;
 }
+.countdown {
+  margin: 25px 0;
+  background: #f1faee;
+  padding: 20px;
+  border-radius: 18px;
+  border: 1px solid #b7e4c7;
+}
+
+.countdown h2 {
+  color: #40916c;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+#timer {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+#timer span {
+  background: #40916c;
+  color: white;
+  padding: 10px;
+  border-radius: 12px;
+  min-width: 65px;
+}
+
+#timer b {
+  display: block;
+  font-size: 22px;
+}
+
+#timer small {
+  font-size: 12px;
+}
