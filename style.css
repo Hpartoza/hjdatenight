@@ -171,3 +171,10 @@ button:hover {
     transform: translateY(0);
   }
 }
+.closing {
+  margin-top: 25px;
+  color: #2d6a4f;
+  font-style: italic;
+  font-size: 15px;
+  line-height: 1.5;
+}
